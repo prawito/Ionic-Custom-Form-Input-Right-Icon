@@ -1,0 +1,16 @@
+.inner-ico { 
+    position: relative; 
+}
+
+.inner-ico .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+  color: #aaa;
+}
+
+.left-ico .glyphicon  { left:  0px;}
+.right-ico .glyphicon { right: 0px;}
+
+.left-ico input  { padding-left:  30px; }
+.right-ico input { padding-right: 30px; }
